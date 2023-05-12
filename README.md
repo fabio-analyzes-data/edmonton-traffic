@@ -9,7 +9,7 @@ Gain insight into Edmonton traffic density, its distribution and evolution throu
 ---
 <div align="center">
 
-https://fabio-analyzes-data.github.io/bellbeat-analysis/
+https://fabio-analyzes-data.github.io/edmonton-traffic/
 </div>
 
 ---
